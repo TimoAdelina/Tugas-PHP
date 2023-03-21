@@ -19,7 +19,7 @@
 <body>
     <h1 style="color:firebrick">
         <marquee>
-            LUAS JAJARGENJANG
+            LUAS DAN KELILING JAJARGENJANG
         </marquee>
     </h1>
     <table align="center" cellpadding="25">
