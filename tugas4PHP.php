@@ -22,7 +22,7 @@ $domisili = ["medan", "bali", "depok", "banten"];
             </tr>
         </thead>
         <tbody>
-            <form method=" post">
+            <form method="post">
                 <tr>
                     <td>nim :</td>
                     <td>
@@ -80,7 +80,7 @@ $domisili = ["medan", "bali", "depok", "banten"];
 
         <tfoot>
             <tr>
-                <th colspan="2"> <button name=" proses">submit</button> </th>
+                <th colspan="2"> <button name="proses">submit</button> </th>
             </tr>
         </tfoot>
         </form>
