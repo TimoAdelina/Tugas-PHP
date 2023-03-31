@@ -17,8 +17,6 @@ class Lingkaran extends Bentuk2D{
         $Keliling=2*3.14*$this ->jari2;
         return $Keliling;
     }
-    public function cetak(){
-        echo '.namaBidang()';
-   } 
+  
 }
 ?>
