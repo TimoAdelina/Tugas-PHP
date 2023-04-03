@@ -20,9 +20,9 @@ public function __construct($nip,$nama,$jabatan,$agama,$status){
 public function Setgajipokok($jabatan){
     $this->jabatan=$jabatan;
     switch($jabatan){
-        case "Manager": $gapok=100000000; break;
-        case "Asisten Manager": $gapok=80000000; break;
-        case "Kepala Bagian": $gapok=10000000; break;
+        case "Manager": $gapok=12000000; break;
+        case "Asisten Manager": $gapok=8000000; break;
+        case "Kepala Bagian": $gapok=5000000; break;
         case "Staff":$gapok=3000000;break;
         default: $gapok='';
     }
